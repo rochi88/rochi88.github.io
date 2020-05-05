@@ -1,4 +1,10 @@
+# git ignore files and folder
+
+# generated site contents
 _site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+
+# sass cache
+.sass-cache/*
+
+# ide contents
+.idea/
