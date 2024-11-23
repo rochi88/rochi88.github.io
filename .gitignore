@@ -1,10 +1,9 @@
-# git ignore files and folder
-
-# generated site contents
-_site/
-
-# sass cache
-.sass-cache/*
-
-# ide contents
-.idea/
+cache
+.doit.db*
+__pycache__
+output/
+.venv
+.ipynb_checkpoints/
+*.pyc
+.env
+*.log
