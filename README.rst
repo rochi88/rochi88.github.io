@@ -1,4 +1,4 @@
-The Cloistered Monkey Site
+My Notes Site
 ==========================
 
 This folder contains the source used to generate a static site using Nikola.

@@ -16,15 +16,15 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Cloistered Monkey"  # (translatable)
-BLOG_TITLE = "The Cloistered Monkey"  # (translatable)
+BLOG_AUTHOR = "Rochi"  # (translatable)
+BLOG_TITLE = "My Notes"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://necromuralist.github.io/"
+SITE_URL = "https://rochi88.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://necromuralist.github.io/"
-BLOG_EMAIL = "cloisteredmonkey.jmark@slmail.me"
+# BASE_URL = "https://rochi88.github.io/"
+BLOG_EMAIL = "raisul.me@gmail.com"
 BLOG_DESCRIPTION = "A common place."  # (translatable)
 
 # Nikola is multilingual!
